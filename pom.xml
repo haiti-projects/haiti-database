@@ -13,9 +13,9 @@
     <artifactId>haiti-database</artifactId>
     <version>0.0.1-RELEASE</version>
 
-    <name>Haiti Filter Criteria</name>
-    <description>Fast creation of filtering requests using the Criteria Api wrapper.</description>
-    <url>https://github.com/haiti-projects/haiti-filter-criteria</url>
+    <name>Haiti Database</name>
+    <description>Abstract classes for fast repository layer creation</description>
+    <url>https://github.com/haiti-projects/haiti-database</url>
     <licenses>
         <license>
             <name>Apache License, Version 2.0</name>
@@ -45,9 +45,9 @@
     </organization>
 
     <scm>
-        <connection>scm:git:https://github.com/haiti-projects/haiti-filter-criteria.git</connection>
-        <url>https://github.com/haiti-projects/haiti-filter-criteria</url>
-        <developerConnection>scm:git:https://github.com/haiti-projects/haiti-filter-criteria.git</developerConnection>
+        <connection>scm:git:https://github.com/haiti-projects/haiti-database.git</connection>
+        <url>https://github.com/haiti-projects/haiti-database</url>
+        <developerConnection>scm:git:https://github.com/haiti-projects/haiti-database.git</developerConnection>
     </scm>
 
     <distributionManagement>
@@ -59,7 +59,7 @@
 
     <issueManagement>
         <system>GitHub</system>
-        <url>https://github.com/haiti-projects/haiti-framework/issues</url>
+        <url>https://github.com/haiti-projects/haiti-database/issues</url>
     </issueManagement>
 
     <dependencies>
