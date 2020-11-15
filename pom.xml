@@ -74,8 +74,9 @@
         </dependency>
 
         <dependency>
-            <groupId>org.sadtech.haiti</groupId>
+            <groupId>org.sadtech.haiti.filter</groupId>
             <artifactId>haiti-filter-criteria</artifactId>
+            <version>0.0.1-RELEASE</version>
         </dependency>
 
         <dependency>
