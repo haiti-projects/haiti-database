@@ -11,7 +11,7 @@
 
     <groupId>org.sadtech.haiti.data</groupId>
     <artifactId>haiti-database</artifactId>
-    <version>0.0.1-RELEASE</version>
+    <version>0.0.2-RELEASE</version>
 
     <name>Haiti Database</name>
     <description>Abstract classes for fast repository layer creation</description>
@@ -76,7 +76,7 @@
         <dependency>
             <groupId>org.sadtech.haiti.filter</groupId>
             <artifactId>haiti-filter-criteria</artifactId>
-            <version>0.0.1-RELEASE</version>
+            <version>0.0.2-RELEASE</version>
         </dependency>
 
         <dependency>
